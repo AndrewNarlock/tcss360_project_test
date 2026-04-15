@@ -1,2 +1,2 @@
-# tcss360_project_test
-a
+# My Project
+This project is a sample repository to demonstrate GitHub and Git usage in TCSS360.
